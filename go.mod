@@ -4,7 +4,7 @@ go 1.17
 
 require (
 	github.com/Ouest-France/phpipam-sdk-go v0.1.0
-	github.com/hashicorp/terraform-plugin-sdk/v2 v2.7.0
+	github.com/hashicorp/terraform-plugin-sdk/v2 v2.7.1
 )
 
 require (
