@@ -4,7 +4,7 @@ go 1.17
 
 require (
 	github.com/Ouest-France/phpipam-sdk-go v0.1.0
-	github.com/hashicorp/terraform-plugin-sdk/v2 v2.7.1
+	github.com/hashicorp/terraform-plugin-sdk/v2 v2.8.0
 )
 
 require (
@@ -21,7 +21,7 @@ require (
 	github.com/hashicorp/go-uuid v1.0.1 // indirect
 	github.com/hashicorp/go-version v1.3.0 // indirect
 	github.com/hashicorp/hcl/v2 v2.3.0 // indirect
-	github.com/hashicorp/terraform-plugin-go v0.3.0 // indirect
+	github.com/hashicorp/terraform-plugin-go v0.4.0 // indirect
 	github.com/hashicorp/yamux v0.0.0-20181012175058-2f1d1f20f75d // indirect
 	github.com/imdario/mergo v0.3.12 // indirect
 	github.com/mattn/go-colorable v0.1.4 // indirect
