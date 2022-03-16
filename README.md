@@ -1,3 +1,9 @@
+:warning: **ARCHIVING** :warning:
+```
+This project is no longer maintained. Feel free to fork.
+```
+:warning: **ARCHIVING** :warning:
+
 # `terraform-provider-phpipam`
 
 This repository holds a external plugin for a [Terraform][1] provider to manage
